@@ -10,4 +10,4 @@ P        IIIIIIII  N    N
 ```
 
 > [!NOTE]  
-> What's the first program your supposed to write when your friend gets an Atari Portfolio??
+> What is the first program you're supposed to write when your friend gets an Atari Portfolio??
